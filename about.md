@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am Oyesh Mann Singh. I am from Nepal. I am just a curious guy trying 
+<p>I am Oyesh Mann Singh. Originally, I am from 7654 miles away approximately laterally. I am just a curious guy trying 
 to learn things how it works.</p>
 
 <p>Chill and live life to the fullest :)</p>
