@@ -1,6 +1,6 @@
 # main text of home
 name: Oyesh Mann Singh
-bio: Staring at squirrels outside the window
+bio: A man who loves to drink tea
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -52,18 +52,12 @@ github: oya163
 email: oyeshsin@hotmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    oya163:
+        name: Oyesh Mann Singh
+        bio: A Man who loves to dance
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: oya163
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
