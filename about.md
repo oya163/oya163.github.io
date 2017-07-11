@@ -21,6 +21,6 @@ to learn things how it works.</p>
 
 <ul>
 	<li><a href="https://github.com/oya163/oyaTorch">Oya Torch</a></li>
-	<li><a href="https://github.com/oya163/DataStructure">DataStructure in C++</a></li>
+	<li><a href="https://github.com/oya163/DataStructure_Cpp">DataStructure in C++</a></li>
 	<li><a href="https://github.com/oya163/CrackingTheCode">Cracking The Code Interview</a></li>
 </ul>
