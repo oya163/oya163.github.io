@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/resume/oyaResume.pdf
+resume-url: assets/resume/Resume_OyeshSingh.pdf
 
 # url: https://koppl.in/indigo
 url: http://oya163.github.io
@@ -40,7 +40,7 @@ twitter: oya163
 # instagram: myinstagram
 # pinterest: mypinterest
 linkedin: oyeshsingh
-# youtube: myyoutube
+youtube: oyauna
 # spotify: myspotify
 github: oya163
 # lastfm: mylastfm
