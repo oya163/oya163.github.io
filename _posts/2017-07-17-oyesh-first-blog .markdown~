@@ -1,7 +1,7 @@
 ---
-title: "Markdown Common Elements"
+title: "Oyesh First Blog"
 layout: post
-date: 2016-02-24 22:44
+date: 2017-07-17 14:58
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,13 +9,13 @@ tag:
 - elements
 star: true
 category: blog
-author: johndoe
-description: Markdown summary with different options
+author: oyashi
+description: This is my first blog on this webpage
 ---
 
 ## Summary:
 
-You can pick as item to see how to apply in markdown.
+This is the just the testing phase. So, do whatever you like.
 
 ### Comum Elements
 - [Basic formatting](#basic-formatting)
@@ -26,6 +26,7 @@ You can pick as item to see how to apply in markdown.
 - [Horizontal Rule](#horizontal-rule)
 - [Images](#images)
 - [Code](#code)
+- [Test URL](#test-url)
 
 ---
 
@@ -211,6 +212,9 @@ $(window).scroll(function() {
 
 });
 {% endhighlight %}
+
+## Test URL
+This is the just test URL for my own reference.
 
 [1]: http://daringfireball.net/projects/markdown/
 [2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
