@@ -40,7 +40,7 @@ Anyway, I will explain the procedure that we followed to prepare this dish.
 
 Images of prepared Carrot's Halwa.
 
-![image][6]
+![Markdowm Image][6]
 <figcaption class="caption">Yummyyyy !!!</figcaption>
 
 ![Markdowm Image][7]
@@ -55,5 +55,5 @@ Images of prepared Carrot's Halwa.
 [3]: http://www.markitdown.net/
 [4]: http://daringfireball.net/projects/markdown/basics
 [5]: http://daringfireball.net/projects/markdown/syntax
-[6]: /assets/images/carrot-haluwa/carrot-prepared-1.jpg
-[7]: /assets/images/carrot-haluwa/carrot-prepared-2.jpg
+[6]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-prepared-1.jpg
+[7]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-prepared-2.jpg

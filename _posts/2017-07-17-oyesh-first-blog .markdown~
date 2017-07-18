@@ -15,15 +15,15 @@ description: This is my first blog on this webpage
 
 ## Introduction:
 
-This is my first blog on my own webpage. I've written few other blogs in Google blogspot.
-Therefore, since I'm not finding any interesting topic to start with, I will write
-about a cooking project that Kiran (my friend) and I did for fun.
+This is my first blog on my own webpage, although I've written few other blogs in my Google blogspot.
+Since I'm not finding any interesting topic to start with, I am writing
+about a cooking project which my friend (Kiran) and I did for fun.
 
-We made CARROT'S HALWA (Gaajar ko haluwa, as called in Hindi/Nepali). This is sweet delicacy
-which is very popular in Middle East, Asia and Africa, according to Wikipedia. You can call it
-sweets or desserts if you want to explain to an American. 
+We made CARROT'S HALUWA (Gaajar ko haluwa, as called in Hindi/Nepali). This is sweet delicacy
+which is very popular in Middle East, Asia and Africa (according to Wikipedia). You can call it
+sweets or desserts if you want to explain it to an American. 
 
-This halva is very popular in Nepal as well and everybody loves it, who loves sweets.
+This haluwa is very popular in Nepal as well and everybody loves it especially who loves sweets.
 Anyway, I will explain the procedure that we followed to prepare this dish.
 
 ---
@@ -40,7 +40,7 @@ Anyway, I will explain the procedure that we followed to prepare this dish.
 
 Images of prepared Carrot's Halwa.
 
-![image][6]
+![Markdowm Image][6]
 <figcaption class="caption">Yummyyyy !!!</figcaption>
 
 ![Markdowm Image][7]
@@ -55,5 +55,5 @@ Images of prepared Carrot's Halwa.
 [3]: http://www.markitdown.net/
 [4]: http://daringfireball.net/projects/markdown/basics
 [5]: http://daringfireball.net/projects/markdown/syntax
-[6]: /assets/images/carrot-haluwa/carrot-prepared-1.jpg
-[7]: /assets/images/carrot-haluwa/carrot-prepared-2.jpg
+[6]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-prepared-1.jpg
+[7]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-prepared-2.jpg
