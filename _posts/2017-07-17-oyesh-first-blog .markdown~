@@ -40,7 +40,7 @@ Anyway, I will explain the procedure that we followed to prepare this dish.
 
 Images of prepared Carrot's Halwa.
 
-![Markdowm Image][6]
+![image][6]
 <figcaption class="caption">Yummyyyy !!!</figcaption>
 
 ![Markdowm Image][7]
