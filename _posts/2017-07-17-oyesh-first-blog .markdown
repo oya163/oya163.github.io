@@ -1,32 +1,30 @@
 ---
-title: "Oyesh First Blog"
+title: "Carrot's Halwa"
 layout: post
 date: 2017-07-17 14:58
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- carrot
+- halwa
 star: true
 category: blog
 author: oyashi
 description: This is my first blog on this webpage
 ---
 
-## Summary:
+## Introduction:
 
-This is the just the testing phase. So, do whatever you like.
+This is my first blog on my own webpage. I've written few other blogs in Google blogspot.
+Therefore, since I'm not finding any interesting topic to start with, I will write
+about a cooking project that Kiran (my friend) and I did for fun.
 
-### Comum Elements
-- [Basic formatting](#basic-formatting)
-- [Headings](#headings)
-- [Lists](#lists)
-- [Paragraph Modifiers](#paragraph-modifiers)
-- [Urls](#urls)
-- [Horizontal Rule](#horizontal-rule)
-- [Images](#images)
-- [Code](#code)
-- [Test URL](#test-url)
+We made CARROT'S HALWA (Gaajar ko haluwa, as called in Hindi/Nepali). This is sweet delicacy
+which is very popular in Middle East, Asia and Africa, according to Wikipedia. You can call it
+sweets or desserts if you want to explain to an American. 
+
+This halva is very popular in Nepal as well and everybody loves it, who loves sweets.
+Anyway, I will explain the procedure that we followed to prepare this dish.
 
 ---
 
