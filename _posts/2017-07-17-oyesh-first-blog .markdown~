@@ -46,7 +46,9 @@ Images of prepared Carrot's Halwa.
 ![Markdowm Image][7]
 <figcaption class="caption">Sooo Deliciosooo</figcaption>
 
-![Markdowm Image][6]{: class="bigger-image" }
+![Markdowm Image][8]
+
+![Markdowm Image][9]
 
 ---
 
@@ -57,3 +59,5 @@ Images of prepared Carrot's Halwa.
 [5]: http://daringfireball.net/projects/markdown/syntax
 [6]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-prepared-1.jpg
 [7]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-prepared-2.jpg
+[8]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-grating.gif
+[9]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-cooking.gif
