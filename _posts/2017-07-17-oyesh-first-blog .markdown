@@ -30,34 +30,39 @@ Anyway, I will explain the procedure that we followed to prepare this dish.
 
 ## Procedures:
 
-1. Item 1
-2. A second item
-3. Number 3
+1. Peel the carrots outer-cover.
+2. Grate the carrots. 
+3. Cook carrots in melted butter and stir it up time and again.
+4. Pour enough milk to cover all the carrots.
+5. Add sugar to taste.
+6. You can add raisins, saffron, cashew nuts, pistachios, almonds, cardamoms.
+7. Keep boiling the mixture and stirring till it becomes thick and soft.
+8. After the mixture has become thick, let it cool.
+9. The halwa is ready.
 
 ---
 
-## Images
+## Preparation Images
 
 Images of prepared Carrot's Halwa.
+![Markdowm Image][1]
+<figcaption class="caption">This is me grating carrots</figcaption>
+This task is mundane and back-breaking. It took me more than half an hour,
+because there were lots of carrots, approximately 15 pieces. 
 
-![Markdowm Image][6]
+![Markdowm Image][2]
+<figcaption class="caption">Cooking carrots on melted butter</figcaption>
+This is my friend cooking grated carrots.
+
+![Markdowm Image][3]
 <figcaption class="caption">Yummyyyy !!!</figcaption>
 
-![Markdowm Image][7]
+![Markdowm Image][4]
 <figcaption class="caption">Sooo Deliciosooo</figcaption>
 
-![Markdowm Image][8]
-
-![Markdowm Image][9]
-
 ---
+[1]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-grating.gif
+[2]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-cooking.gif
+[3]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-prepared-1.jpg
+[4]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-prepared-2.jpg
 
-[1]: http://daringfireball.net/projects/markdown/
-[2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: http://www.markitdown.net/
-[4]: http://daringfireball.net/projects/markdown/basics
-[5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-prepared-1.jpg
-[7]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-prepared-2.jpg
-[8]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-grating.gif
-[9]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-cooking.gif
