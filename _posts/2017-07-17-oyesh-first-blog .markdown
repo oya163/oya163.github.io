@@ -45,13 +45,16 @@ Anyway, I will explain the procedure that we followed to prepare this dish.
 ## Preparation Images
 
 Images of prepared Carrot's Halwa.
+
 ![Markdowm Image][1]
 <figcaption class="caption">This is me grating carrots</figcaption>
+
 This task is mundane and back-breaking. It took me more than half an hour,
 because there were lots of carrots, approximately 15 pieces. 
 
 ![Markdowm Image][2]
 <figcaption class="caption">Cooking carrots on melted butter</figcaption>
+
 This is my friend cooking grated carrots.
 
 ![Markdowm Image][3]
@@ -61,6 +64,7 @@ This is my friend cooking grated carrots.
 <figcaption class="caption">Sooo Deliciosooo</figcaption>
 
 ---
+
 [1]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-grating.gif
 [2]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-cooking.gif
 [3]: http://oya163.github.io/assets/images/carrot-haluwa/carrot-prepared-1.jpg
