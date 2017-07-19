@@ -49,7 +49,6 @@ Anyway, I will explain the procedure that we followed to prepare this dish.
       	<img class="image" src="http://oya163.github.io/assets/images/carrot-haluwa/carrot-grating.gif" alt="Alt Text">
 	<figcaption class="caption">This is me grating carrots</figcaption>
     </div>
-
     <div class="toright">
         <p>This task is mundane and back-breaking. It took me more than half an hour, 
 		because there were lots of carrots, approximately 15 pieces. </p>
@@ -57,11 +56,19 @@ Anyway, I will explain the procedure that we followed to prepare this dish.
 </div>
 
 
+<div class="side-by-side">
+    <div class="toleft">
+      	<img class="image" src="http://oya163.github.io/assets/images/carrot-haluwa/carrot-cooking.gif" alt="Alt Text">
+	<figcaption class="caption">Cooking carrots on melted butter</figcaption>
+    </div>
+    <div class="toright">
+        <p>This is my friend cooking grated carrots. She took more than an hour, I believe, to prepare this dish.
+		This is more excruciating task which needs more patience and attention. Her energy and enthusiasm must be appreciated
+		for preparing this haluwa meticulously.</p>
+    </div>
+</div>
 
-![Markdowm Image][2]
-<figcaption class="caption">Cooking carrots on melted butter</figcaption>
 
-This is my friend cooking grated carrots.
 
 ![Markdowm Image][3]
 <figcaption class="caption">Yummyyyy !!!</figcaption>
