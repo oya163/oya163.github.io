@@ -68,10 +68,16 @@ Anyway, I will explain the procedure that we followed to prepare this dish.
     </div>
 </div>
 
+---
 
+## Results
+
+Here are few images to make your mouth water. :P
 
 ![Markdowm Image][3]
 <figcaption class="caption">Yummyyyy !!!</figcaption>
+
+
 
 ![Markdowm Image][4]
 <figcaption class="caption">Sooo Deliciosooo</figcaption>
