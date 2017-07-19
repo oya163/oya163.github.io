@@ -77,10 +77,9 @@ Here are few images to make your mouth water. :P
 ![Markdowm Image][3]
 <figcaption class="caption">Yummyyyy !!!</figcaption>
 
+__
 
-
-
-
+__
 ![Markdowm Image][4]
 <figcaption class="caption">Sooo Deliciosooo</figcaption>
 
