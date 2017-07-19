@@ -46,7 +46,7 @@ Anyway, I will explain the procedure that we followed to prepare this dish.
 
 <div class="side-by-side">
     <div class="toleft">
-        ![Markdowm Image][1]
+        img class="image" src="http://oya163.github.io/assets/images/carrot-haluwa/carrot-grating.gif" alt="Alt Text">
 	<figcaption class="caption">This is me grating carrots</figcaption>
     </div>
 

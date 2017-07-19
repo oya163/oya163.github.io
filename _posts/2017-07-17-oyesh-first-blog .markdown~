@@ -44,13 +44,19 @@ Anyway, I will explain the procedure that we followed to prepare this dish.
 
 ## Preparation Images
 
-Images of prepared Carrot's Halwa.
+<div class="side-by-side">
+    <div class="toleft">
+        ![Markdowm Image][1]
+	<figcaption class="caption">This is me grating carrots</figcaption>
+    </div>
 
-![Markdowm Image][1]
-<figcaption class="caption">This is me grating carrots</figcaption>
+    <div class="toright">
+        <p>This task is mundane and back-breaking. It took me more than half an hour, 
+		because there were lots of carrots, approximately 15 pieces. </p>
+    </div>
+</div>
 
-This task is mundane and back-breaking. It took me more than half an hour,
-because there were lots of carrots, approximately 15 pieces. 
+
 
 ![Markdowm Image][2]
 <figcaption class="caption">Cooking carrots on melted butter</figcaption>
