@@ -4,7 +4,7 @@ layout: post
 date: 2017-07-18 20:26
 image: /assets/images/markdown.jpg
 headerImage: false
-star: true
+star: false
 category: blog
 author: oyashi
 description: This is my first blog on this webpage

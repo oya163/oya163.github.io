@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - carrot
 - halwa
-star: true
+star: false
 category: blog
 author: oyashi
 description: This is my first blog on this webpage
