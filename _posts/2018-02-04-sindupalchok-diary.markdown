@@ -25,9 +25,10 @@ I have a friend named Deepak Bomjan who is from Yamuna dada, Sindhupalchok distr
 	<div class="content">
 		<p>Here is a video of my presentation which I gave in that school. I talked about importance of Computer Science, how it has impacted our daily 		lives, what we can do after studying computer science and how we can help our community and country with the usage of computers. </p>
 	</div>
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/b5f9wjTJU3g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-<iframe width="560" height="310" src="https://www.youtube.com/watch?v=b5f9wjTJU3g&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+
 
 
 
