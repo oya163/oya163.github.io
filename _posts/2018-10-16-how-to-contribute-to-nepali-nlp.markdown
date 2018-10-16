@@ -34,18 +34,21 @@ Let's dive into the technical details :-
 <img src="https://tatoeba.org/img/list.svg?1539541927#list" alt="" height="16">
  to select **nepali** and press OK.
 
-* On another tab, open [Easy Nepali Typing] [2] website which helps us to convert English texts into Nepali texts. For example: **Ma nepal janchu -> म नेपाल जान्छु**
+* On another tab, open [Easy Nepali Typing] [2] website which helps us to convert English texts into Nepali texts.
+For example: **Ma nepal janchu -> म नेपाल जान्छु**
 
 * In [Easy Nepali Typing] [2] you need to type the English words with Nepali essence for the English sentence of your choice.
 
-* For example: if you selected **I caught a cold today.** from Tatoeba site. Then, in EasyNepaliTyping, you need to type **malai aaja rugha laageko cha |**. As you type, it will converted into **मलाई आज रुघा लागेको छ ।**
+* For example: if you selected **I caught a cold today.** from Tatoeba site. Then, in [EasyNepaliTyping] [2], you need to type **malai aaja rugha laageko cha |**. As you type, it gets converted into **मलाई आज रुघा लागेको छ ।**
 
 * Once you get Nepali text, simply copy paste into previously opened Tatoeba site, select Language as Nepali and submit your translation.
 
 * Yayy!!!
 
 
-I hope you enjoyed this tutorial. Thank you very much. Keep contributing !!!
+I hope you enjoyed this tutorial. Thank you very much.
+
+Keep contributing !!!
 
 Many many thanks to [Tatoeba] [1] and [Easy Nepali Typing] [2].
 
