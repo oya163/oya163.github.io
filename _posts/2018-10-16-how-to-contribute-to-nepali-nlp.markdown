@@ -39,9 +39,13 @@ For example: **Ma nepal janchu -> म नेपाल जान्छु**
 
 * In [Easy Nepali Typing] [2] you need to type the English words with Nepali essence for the English sentence of your choice.
 
-* For example: if you selected **I caught a cold today.** from Tatoeba site. Then, in [EasyNepaliTyping] [2], you need to type **malai aaja rugha laageko cha |**. As you type, it gets converted into **मलाई आज रुघा लागेको छ ।**
+* For example: if you selected **I caught a cold today.** from Tatoeba site.
 
-* Once you get Nepali text, simply copy paste into previously opened Tatoeba site, select Language as Nepali and submit your translation.
+* Then, in [EasyNepaliTyping] [2], you need to type **malai aaja rugha laageko cha |**.
+
+* As you type, it gets converted into **मलाई आज रुघा लागेको छ ।**
+
+* Once you get Nepali text, simply copy it and paste into previously opened Tatoeba site, select Language as Nepali and submit your translation.
 
 * Yayy!!!
 
