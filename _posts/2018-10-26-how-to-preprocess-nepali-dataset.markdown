@@ -1,60 +1,95 @@
 ---
-title: "How to contribute to Nepali NLP"
+title: "How to preprocess Nepali language"
 layout: post
-date: 2018-10-16 13:54
+date: 2018-11-01 17:16
 image: /assets/images/markdown.jpg
 headerImage: false
 star: false
 category: blog
 author: oyashi
-description: Blog to contribute to English to Nepali language pair
+description: Simple techniques to preprocess Nepali language
 ---
 
 
 ## Introduction:
 
-This is a short tutorial to create English -> Nepali (and vice-versa) language translation. This is very important for all Nepali speaking people because this helps to create English -> Nepali language pair (and vice-versa) dataset, which eventually helps to move the Nepali NLP research ahead. This will help Nepali NLP researcher to focus on building stronger machine learning models specifically based on Nepali texts. Furthermore, these models can be used in text analysis, sentiment analysis, text classification, question-answering, speech recognition and much more.
+This blog is about simple techniques to preprocess Nepali dataset or corpus. Here you will learn how to preprocess Nepali dataset/corpus before running your machine learning algorithm. This will be more technical but for more theoretical portion, you can always refer to this [blog][1].
 
-I hope you are interested and excited as I am to contribute in this wonderful journey. The only thing that you need to do is translate the given English sentence into Nepali sentence.
+Since, this [dataset] [2] is scrapped directly from Nepali news portal site. There is a high chance of having bogus unicode characters like 'ZERO WIDTH SPACE', 'TABS', 'NEW LINE', 'ZERO WIDTH JOINER', 'ZERO WIDTH NON-JOINER', 'UTF-8 BOM' and much more. Also, we might want to remove Numbers (१२३...), Symbols($/%+-...) and Punctuations('",.|"'). Therefore, these characters should be removed for corpus creation or dataset preparation, as these are kind of garbage characters which does not constitute much in improving machine learning models.
 
+Here the folder structure is in the following format:
 
-Let's dive into the technical details :-
-* You might want to create an account in [Tatoeba] [1] . Tatoeba is a large database of sentences and translations. Its contents are created from the voluntary contributions of thousands of members all around the world.
+    ./raw
+      /Auto
+          /1448882460.txt
+          /1449985980.txt
+      /Bank
+          /1450165740.txt
+          /1450165980.txt
+      /Blog
+          /1449293640.txt
+          /1449557640.txt
 
-* Once you create an account, you might want to explore around a while. But, if you want to start contributing directly, then from the top menu, go to Contribute -> Translate Sentences. [Click here.] [3]
+Hence, we will walk through each subfolders and get contents of each file and create a dataset in <label, data> format.
 
-* In this page, set the settings as sentences in ENGLISH and not directly translated into NEPALI, then click on SHOW SENTENCES.
+First, we create a lookup table to store unicode value of all unnecessary characters that includes punctuations, BOM, newline, tabs, symbols and others.
+[Reference] [4]
 
-* You will see a list of English sentences remained to be translated into Nepali language.
-
-* Once the sentences are displayed, click on
-<img src="https://tatoeba.org/img/translate.svg?1539541927" alt="" height="16"> of a particular sentence to add a translation.
-
-* Also click on
-<img src="https://tatoeba.org/img/list.svg?1539541927#list" alt="" height="16">
- to select **nepali** and press OK.
-
-* On another tab, open [Easy Nepali Typing] [2] website which helps us to convert English texts into Nepali texts.
-For example: **Ma nepal janchu -> म नेपाल जान्छु**
-
-* In [Easy Nepali Typing] [2] you need to type the English words with Nepali essence for the English sentence of your choice.
-
-* For example: if you selected **I caught a cold today.** from Tatoeba site. You need to type **malai aaja rugha laageko cha |**.
-
-* As you type, it gets converted into **मलाई आज रुघा लागेको छ ।**
-
-* Once you get Nepali text, simply copy it and paste into previously opened Tatoeba site, select Language as Nepali and submit your translation.
-
-* Yayy!!!
+    table = dict.fromkeys(i for i in range(sys.maxunicode)
+                        if un.category(chr(i)).startswith(('P','N','S','Cf','Cn','Cc'))
+                        and i != 45)
 
 
-I hope you enjoyed this tutorial. Thank you very much.
+For example:<br>
+P - any kinds of punctuation<br>
+N - any kinds of number<br>
+S - any kinds of symbol<br>
+Cf - Other, Format (ZERO WIDTH SPACE, ZERO WIDTH NON-JOINER)<br>
+Cn - Not assigned, Format<br>
+Cc - Other, Control category (tab)<br>
+45 - represents HYPHEN-MINUS, we do not want to remove it for now because of words like आ-आफ्नो, प्रचार-प्रसार etc.
 
-Keep contributing !!!
+Secondly, we read each file with encoding 'utf-8-sig' due to presence of BOM characters in the file. And, translate with the above dictionary table in order to remove unnecessary characters all at once.
 
-Many many thanks to [Tatoeba] [1] and [Easy Nepali Typing] [2].
+    fp = open(curr_file, encoding='utf-8-sig').read()
+    fp = fp.translate(table)
 
 
-[1]: https://tatoeba.org/ "Tatoeba"
-[2]: http://www.easynepalityping.com/ "EasyNepaliTyping"
-[3]: https://tatoeba.org/eng/activities/translate_sentences
+Moreover, we use regex to carefully remove HYPHEN-MINUS characters from the text. Since, we do not want to remove hyphen that's between the words like आ-आफ्नो, प्रचार-प्रसार, but we might want to remove from नेपाल- का, -लागे -भन्दै, where there is space either before or after hyphen.
+
+    fp = re.sub(r"(?<!\w)[-]|[-](?!\w)",'',fp)
+
+
+Additionally, we normalize the unicode characters so that canonical-equivalent ones will also have precisely the same binary representation. For example काठमाडा + ै + ं = काठमाडौं. Hence, डौं will be equivalent to डा + ै + ं. I have used NFC (Normalization Form C) which performs Canonical Decomposition, followed by Canonical Composition, so that the resulting string is canonical equivalent to the original unnormalized text. For more [info] [5].
+
+    final_msg = label, un.normalize('NFC', fp)
+
+
+Finally, write the properly formatted data in our csv file.
+
+    writer.writerow(final_msg)
+
+
+Sample records in <label, data> format:
+
+    1, मंसिर काठमाडौं  सरकारले सोमबारदेखि ड्राइभिङ लाइसेन्समा स्मार्ट कार्ड प्रविधि कार्यान्वयनमा ल्याएको छ
+    1, मंसिर काठमाडौं  टाटा मोटर्सले ट्याक्सीका लागि उपयुक्त दुई मोडल नेपाली बजारमा भित्राएको छ
+    1,रवीन्द्र घिमिरे मंसिर काठमाडौं  चीन सरकारले नेपाललाई अनुदानमा  वटा विद्युतीय बस दिने भएको छ
+
+
+It took approximately 90 seconds to process the dataset of size 71 MB on a normal i7 processor. This dataset is now ready to be shuffled and divided into train/val/test portion to feed it into machine learning algorithms.
+
+Complete code is available on [github][6].
+
+Many many thanks to [Nepali NLP Group][1], [sndsabin][2] and [Bal Krishna Bal, KU Professor][7]
+
+Note: STOP WORDS removal is not done. Code might be rough.
+
+
+[1]: http://nepalinlp.com/detail/processing-unicode-devnagari-in-python/ "NepaliPreProcessing"
+[2]: https://github.com/sndsabin/Nepali-News-Classifier "Nepali News Dataset"
+[3]: http://www.fileformat.info/info/unicode/index.htm "Unicode List"
+[4]: https://stackoverflow.com/a/11066687/4595807 "SF1"
+[5]: http://unicode.org/reports/tr15/#Canon_Compat_Equivalence "Unicode Normalization"
+[6]: https://github.com/oya163/oya-nepali-nlp "github"
+[7]: http://ku.edu.np/cse/faculty/bal/ "bkb"
