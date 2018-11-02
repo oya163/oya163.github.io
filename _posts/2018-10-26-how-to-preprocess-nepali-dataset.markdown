@@ -15,7 +15,7 @@ description: Simple techniques to preprocess Nepali language
 
 This blog is about simple techniques to preprocess Nepali dataset or corpus. Here you will learn how to preprocess Nepali dataset/corpus before running your machine learning algorithm. This will be more technical but for more theoretical portion, you can always refer to this [blog][1].
 
-Since, this [dataset] [2] is scrapped directly from Nepali news portal site. There is a high chance of having bogus unicode characters like 'ZERO WIDTH SPACE', 'TABS', 'NEW LINE', 'ZERO WIDTH JOINER', 'ZERO WIDTH NON-JOINER', 'UTF-8 BOM' and much more. Also, we might want to remove Numbers (१२३), Symbols($/%+) and Punctuations(,|;). Therefore, these characters should be removed for corpus creation or dataset preparation, as these are kind of garbage characters which does not constitute much in improving machine learning models.
+Since, this [dataset] [2] is scrapped directly from Nepali news portal site. There is a high chance of having bogus unicode characters like 'ZERO WIDTH SPACE', 'TABS', 'NEW LINE', 'ZERO WIDTH JOINER', 'ZERO WIDTH NON-JOINER', 'UTF-8 BOM' and much more. Also, we might want to remove Numbers (१२३), Symbols($/%+) and Punctuations(,&#124;;). Therefore, these characters should be removed for corpus creation or dataset preparation, as these are kind of garbage characters which does not constitute much in improving machine learning models.
 
 Here the folder structure is in the following format:
 
