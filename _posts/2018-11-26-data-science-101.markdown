@@ -1,0 +1,32 @@
+---
+title: "DataScience101"
+layout: post
+date: 2018-11-26 17:18
+image: /assets/images/markdown.jpg
+headerImage: true
+star: false
+projects: true
+category: project
+author: oyashi
+description: "Text preprocessing, Machine Learning and Data Visualization"
+---
+
+We formed a group who are interested in Data Science and interested to get internship in the same.
+We meet every evening in the library to work on Kaggle Competition. Currently, we are onto Movie Sentiment Analysis.
+We do rigorous study behind the machine learning algorithms.
+
+
+---
+
+What's inside :-
+
+- Text Cleaning
+- Dataset preprocessing
+- Applying scikit learn algorithms
+- Algorithms used Logistic Regression, kNN, SVM, Naive Bayes, Ensemble Learning, Perceptron, MLP
+- Future work - Deep Learning (RNN, LSTM, GRU)
+- Future work - Data visualization
+
+---
+
+[Check it out the project here.](https://github.com/oya163/DataScience101)
