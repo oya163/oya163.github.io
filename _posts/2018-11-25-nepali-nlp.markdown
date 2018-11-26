@@ -5,7 +5,7 @@ date: 2018-11-01 17:16
 image: /assets/images/markdown.jpg
 headerImage: true
 star: false
-category: project
+category: blog
 author: oyashi
 description: "Main goal is to classify Nepali documents into various categories"
 ---
