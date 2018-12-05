@@ -20,13 +20,13 @@ We are doing rigorous (theoretical and practical) study behind the machine learn
 
 What's inside :-
 
-- [x] Text Cleaning
-- [x] Dataset preprocessing
-- [x] Applying scikit learn algorithms
-- [x] Algorithms used Logistic Regression, kNN, SVM, Naive Bayes, Ensemble Learning, Perceptron, MLP
-- [x] Data visualization
-- [ ] Word embeddings (word2vec, GLove, fastText)
-- [ ] Deep Learning (CNN, RNN, LSTM, GRU) with Pytorch
+- [x]  Text Cleaning
+- [x]  Dataset preprocessing
+- [x]  Applying scikit learn algorithms
+- [x]  Algorithms used Logistic Regression, kNN, SVM, Naive Bayes, Ensemble Learning, Perceptron, MLP
+- [x]  Data visualization
+- [ ]  Word embeddings (word2vec, GLove, fastText)
+- [ ]  Deep Learning (CNN, RNN, LSTM, GRU) with Pytorch
 
 
 ---
