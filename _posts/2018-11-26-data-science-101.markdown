@@ -11,21 +11,23 @@ author: oyashi
 description: "Text preprocessing, Machine Learning and Data Visualization"
 ---
 
-We formed a group who are interested in Data Science and interested to get internship in the same.
-We meet every evening in the library to work on Kaggle Competition. Currently, we are onto Movie Sentiment Analysis.
-We do rigorous study behind the machine learning algorithms.
+We formed a group of students who are interested in Data Science and interested to get internship in the same field.
+We meet every evening in the library to work on Kaggle Competition. Currently, we are working on Text Classification related with Movie Sentiment Analysis.
+We are doing rigorous (theoretical and practical) study behind the machine learning algorithms.
 
 
 ---
 
 What's inside :-
 
-- Text Cleaning
-- Dataset preprocessing
-- Applying scikit learn algorithms
-- Algorithms used Logistic Regression, kNN, SVM, Naive Bayes, Ensemble Learning, Perceptron, MLP
-- Future work - Deep Learning (RNN, LSTM, GRU)
-- Future work - Data visualization
+- [x] Text Cleaning
+- [x] Dataset preprocessing
+- [x] Applying scikit learn algorithms
+- [x] Algorithms used Logistic Regression, kNN, SVM, Naive Bayes, Ensemble Learning, Perceptron, MLP
+- [x] Data visualization
+- [ ] Word embeddings (word2vec, GLove, fastText)
+- [ ] Deep Learning (CNN, RNN, LSTM, GRU) with Pytorch
+
 
 ---
 
