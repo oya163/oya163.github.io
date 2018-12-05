@@ -31,4 +31,4 @@ What's inside :-
 
 ---
 
-[Check it out the project here.](https://github.com/oya163/DataScience101)
+[Check it out the project here.](https://github.com/oya163/DataScience101/?target=_blank)
