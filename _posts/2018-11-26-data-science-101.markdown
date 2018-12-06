@@ -25,7 +25,7 @@ What's inside :-
 - [x]  Applying scikit learn algorithms
 - [x]  Algorithms used Logistic Regression, kNN, SVM, Naive Bayes, Ensemble Learning, Perceptron, MLP
 - [x]  Data visualization
-- [ ]  Word embeddings (word2vec, GLove, fastText)
+- [x]  Word embeddings (word2vec, GloVe, fastText)
 - [ ]  Deep Learning (CNN, RNN, LSTM, GRU) with Pytorch
 
 
