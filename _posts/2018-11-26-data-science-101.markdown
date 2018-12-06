@@ -2,7 +2,7 @@
 title: "DataScience101"
 layout: post
 date: 2018-11-26 17:18
-image: /assets/images/markdown.jpg
+image: /assets/images/movie_word_cloud.jpg
 headerImage: true
 star: false
 projects: true
