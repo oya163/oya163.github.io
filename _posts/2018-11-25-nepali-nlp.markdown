@@ -2,7 +2,7 @@
 title: "Nepali NLP"
 layout: post
 date: 2018-11-01 17:16
-image: /assets/images/markdown.jpg
+image: /assets/images/word_cloud.jpg
 headerImage: true
 star: false
 projects: true
