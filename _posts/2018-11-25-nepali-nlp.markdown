@@ -41,4 +41,4 @@ What's inside :-
 
 ---
 
-[Check it out the project here.](https://github.com/oya163/oya-nepali-nlp)
+[Check out the project here.](https://github.com/oya163/oya-nepali-nlp)
