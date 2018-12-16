@@ -14,7 +14,7 @@ description: "Analysis on 311 Open Baltimore Customer Dataset"
 Highlights :-
 - Course project for Data Science and Analysis in Spring 2018.
 - We worked on analyzing 311 Customer Service Request in Baltimore.
-- [Dataset used] (https://data.baltimorecity.gov/City-Services/311-Customer-Service-Requests/9agw-sxsr).
+- [Dataset used](https://data.baltimorecity.gov/City-Services/311-Customer-Service-Requests/9agw-sxsr).
 - Analyzed how long does it take to fix complaints (street lights, cleaning, sanitation, pot-holes and parking) in different counties in Baltimore city based on population, race and crime rate.
 - Language used - R
 
