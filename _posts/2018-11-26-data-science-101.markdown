@@ -22,13 +22,12 @@ What's inside :-
 
 - [x]  Text Cleaning
 - [x]  Dataset preprocessing
-- [x]  Applying scikit learn algorithms
 - [x]  Algorithms used Logistic Regression, kNN, SVM, Naive Bayes, Ensemble Learning, Perceptron, MLP
 - [x]  Data visualization
-- [x]  Word embeddings (word2vec, GloVe, fastText)
-- [ ]  Deep Learning (CNN, RNN, LSTM, GRU) with Pytorch
+- [x]  Word embeddings (word2vec)
+- [x]  Deep Learning (RNN, LSTM, GRU) with Pytorch
 
 
 ---
 
-[Check it out the project here.](https://github.com/oya163/DataScience101/?target=_blank){:target="_blank"}
+[Check it out the project here.](https://github.com/oya163/DataScience101/?target=_blank)
