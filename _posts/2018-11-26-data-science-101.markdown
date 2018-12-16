@@ -11,10 +11,15 @@ author: oyashi
 description: "Text preprocessing, Machine Learning and Data Visualization"
 ---
 
-We formed a group of students who are interested in Data Science and interested to get internship in the same field.
-We meet every evening in the library to work on Kaggle Competition. Currently, we are working on Text Classification related with Movie Sentiment Analysis.
-We are doing rigorous (theoretical and practical) study behind the machine learning algorithms.
+We formed a group who are interested in Data Science and interested to get internship in the same field. We meet every evening in the library to work on Kaggle Competition. We finished working on Movie Sentiment Analysis. Currently, we are working on Quora insincere question analysis. We are doing rigorous (theoretical and practical) study behind the machine learning algorithms.
 
+---
+
+Kaggle problems :-
+
+- [x]  Titanic
+- [x]  Movie Sentiment Analysis
+- [ ]  Quora insincere question classification
 
 ---
 
@@ -22,10 +27,25 @@ What's inside :-
 
 - [x]  Text Cleaning
 - [x]  Dataset preprocessing
-- [x]  Algorithms used Logistic Regression, kNN, SVM, Naive Bayes, Ensemble Learning, Perceptron, MLP
+- [x]  Vector representation (TF-IDF, word2vec)
+- [x] Traditional machine learning algorithms:
+  - Logistic Regression
+  - kNN
+  - SVM
+  - Naive Bayes
+  - Ensemble Learning (Gradient Boosting, Bagging)
+  - Perceptron
+  - MLP
+- [x] Deep Learning
+  - RNN
+  - LSTM
+  - GRU
 - [x]  Data visualization
-- [x]  Word embeddings (word2vec)
-- [x]  Deep Learning (RNN, LSTM, GRU) with Pytorch
+  - ROC AUC curve
+  - Dataset distribution
+  - Word Cloud
+  - TSNE plot
+
 
 
 ---
