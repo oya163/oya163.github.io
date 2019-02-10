@@ -43,4 +43,4 @@ What's inside :-
 
 [Check out the project here.](https://github.com/oya163/oya-nepali-nlp)
 
-[Read the paper here.](assets/resume/Nepali_Text_Classification.pdf)
+[Read the paper here.](../assets/resume/Nepali_Text_Classification.pdf)
