@@ -2,7 +2,7 @@
 title: "DataScience101"
 layout: post
 date: 2018-11-26 17:18
-image: /assets/images/markdown.jpg
+image: /assets/images/movie_cloud.jpg
 headerImage: true
 star: false
 projects: true
@@ -11,22 +11,43 @@ author: oyashi
 description: "Text preprocessing, Machine Learning and Data Visualization"
 ---
 
-We formed a group who are interested in Data Science and interested to get internship in the same.
-We meet every evening in the library to work on Kaggle Competition. Currently, we are onto Movie Sentiment Analysis.
-We do rigorous study behind the machine learning algorithms.
+We formed a group who are interested in Data Science and interested to get internship in the same field. We meet every evening in the library to work on Kaggle Competition. We finished working on Movie Sentiment Analysis. Currently, we are working on Quora insincere question analysis. We are doing rigorous (theoretical and practical) study behind the machine learning algorithms.
 
+---
+
+Kaggle problems :-
+
+- [x]  Titanic
+- [x]  Movie Sentiment Analysis
+- [ ]  Quora insincere question classification
 
 ---
 
 What's inside :-
 
-- Text Cleaning
-- Dataset preprocessing
-- Applying scikit learn algorithms
-- Algorithms used Logistic Regression, kNN, SVM, Naive Bayes, Ensemble Learning, Perceptron, MLP
-- Future work - Deep Learning (RNN, LSTM, GRU)
-- Future work - Data visualization
+- [x]  Text Cleaning
+- [x]  Dataset preprocessing
+- [x]  Vector representation (TF-IDF, word2vec)
+- [x] Traditional machine learning algorithms:
+  - Logistic Regression
+  - kNN
+  - SVM
+  - Naive Bayes
+  - Ensemble Learning (Gradient Boosting, Bagging)
+  - Perceptron
+  - MLP
+- [x] Deep Learning
+  - RNN
+  - LSTM
+  - GRU
+- [x]  Data visualization
+  - ROC AUC curve
+  - Dataset distribution
+  - Word Cloud
+  - TSNE plot
+
+
 
 ---
 
-[Check it out the project here.](https://github.com/oya163/DataScience101)
+[Check out the project here.](https://github.com/oya163/DataScience101/?target=_blank)
