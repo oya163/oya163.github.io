@@ -45,7 +45,9 @@ What's inside :-
 
 Here are some of the interesting results after running various machine learning algorithms.
 
-![Markdowm Image][1]
+![alt text](https://github.com/oya163/oya163.github.io/blob/master/assets/images/neptext/dl_acc.JPG "Accuracy of Deep Learning algorithms.")
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 <figcaption class="caption">Accuracy of Deep Learning algorithms.</figcaption>
 
 
@@ -54,7 +56,7 @@ Here are some of the interesting results after running various machine learning 
 
 ---
 
-[Check out the project here.](https://github.com/oya163/oya-nepali-nlp)
+[Check out the project here.](https://github.com/oya163/nepali-text-classification)
 
 [Read the paper here.](../assets/resume/Nepali_Text_Classification.pdf)
 
