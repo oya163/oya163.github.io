@@ -51,7 +51,7 @@ Here are some of the interesting results after running various machine learning 
 <figcaption class="caption">Accuracy of Deep Learning algorithms.</figcaption>
 
 
-![Markdowm Image][2]
+![Markdowm Image](https://github.com/oya163/oya163.github.io/blob/master/assets/images/neptext/ml_acc.JPG "Accuracy of Tradiitonal Machine Learning algorithms.")
 <figcaption class="caption">Accuracy of Tradiitonal Machine Learning algorithms.</figcaption>
 
 ---
