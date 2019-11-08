@@ -41,16 +41,25 @@ What's inside :-
 
 ---
 
+## Images:
+
 Here are some of the interesting results after running various machine learning algorithms.
 
-Accuracy of Deep Learning algorithms
+<div class="rec-center-sphere">
+	<div class="content">
+		<p>Accuracy of Deep Learning algorithms.</p>
+	</div>
+	<iframe src="https://github.com/oya163/nepali-text-classification/blob/master/images/dl_acc.JPG" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
-![alt text](https://github.com/oya163/nepali-text-classification/blob/master/images/dl_acc.JPG "Deep Learning Algorithms Accuracy")
+<div class="rec-center-sphere">
+	<div class="content">
+		<p>Accuracy of Tradiitonal Machine Learning algorithms.</p>
+	</div>
+	<iframe src="https://github.com/oya163/nepali-text-classification/blob/master/images/ml_acc.JPG" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
-Accuracy of Tradiitonal Machine Learning algorithms
-
-![alt text](https://github.com/oya163/nepali-text-classification/blob/master/images/ml_acc.JPG "Machine Learning Algorithms Accuracy")
-
+---
 
 [Check out the project here.](https://github.com/oya163/oya-nepali-nlp)
 
