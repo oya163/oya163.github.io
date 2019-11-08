@@ -45,6 +45,8 @@ What's inside :-
 
 Here are some of the interesting results after running various machine learning algorithms.
 
+![alt text](https://github.com/oya163/nepali-text-classification/blob/master/images/dl_acc.JPG "Logo Title Text 1")
+
 <div class="rec-center-sphere">
 	<div class="content">
 		<p>Accuracy of Deep Learning algorithms.</p>
