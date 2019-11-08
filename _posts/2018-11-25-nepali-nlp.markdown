@@ -45,13 +45,11 @@ What's inside :-
 
 Here are some of the interesting results after running various machine learning algorithms.
 
-![alt text](https://github.com/oya163/oya163.github.io/blob/master/assets/images/neptext/dl_acc.JPG "Accuracy of Deep Learning algorithms.")
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text][1]
 <figcaption class="caption">Accuracy of Deep Learning algorithms.</figcaption>
 
 
-![Markdowm Image](https://github.com/oya163/oya163.github.io/blob/master/assets/images/neptext/ml_acc.JPG "Accuracy of Tradiitonal Machine Learning algorithms.")
+![alt text][2]
 <figcaption class="caption">Accuracy of Tradiitonal Machine Learning algorithms.</figcaption>
 
 ---
@@ -62,5 +60,5 @@ Here are some of the interesting results after running various machine learning 
 
 ---
 
-[1]: https://github.com/oya163/oya163.github.io/blob/master/assets/images/neptext/dl_acc.JPG
-[2]: https://github.com/oya163/oya163.github.io/blob/master/assets/images/neptext/ml_acc.JPG
+[1]: http://oya163.github.io/assets/images/neptext/dl_acc.JPG
+[2]: http://oya163.github.io/assets/images/neptext/ml_acc.JPG
