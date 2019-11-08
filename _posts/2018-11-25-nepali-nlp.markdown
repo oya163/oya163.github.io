@@ -60,5 +60,5 @@ Here are some of the interesting results after running various machine learning 
 
 ---
 
-[1]: https://github.com/oya163/nepali-text-classification/blob/master/images/dl_acc.JPG
-[2]: https://github.com/oya163/nepali-text-classification/blob/master/images/ml_acc.JPG
+[1]: https://github.com/oya163/oya163.github.io/blob/master/assets/images/neptext/dl_acc.JPG
+[2]: https://github.com/oya163/oya163.github.io/blob/master/assets/images/neptext/ml_acc.JPG
