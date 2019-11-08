@@ -2,7 +2,7 @@
 title: "Nepali Text Classification"
 layout: post
 date: 2018-11-01 17:16
-image: /assets/images/word_cloud.jpg
+image: /assets/images/neptext/dl_acc.JPG
 headerImage: true
 star: false
 projects: true
