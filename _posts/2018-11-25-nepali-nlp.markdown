@@ -41,6 +41,19 @@ What's inside :-
 
 ---
 
+Here are some of the interesting results after running various machine learning algorithms.
+
+Accuracy of Deep Learning algorithms
+
+![alt text][dl_acc]
+
+Accuracy of Tradiitonal Machine Learning algorithms
+
+![alt text][ml_acc]
+
+[dl_acc]: https://github.com/oya163/nepali-text-classification/blob/master/images/dl_acc.JPG "Deep Learning Algorithms Accuracy"
+[ml_acc]: https://github.com/oya163/nepali-text-classification/blob/master/images/ml_acc.JPG "Machine Learning Algorithms Accuracy"
+
 [Check out the project here.](https://github.com/oya163/oya-nepali-nlp)
 
 [Read the paper here.](../assets/resume/Nepali_Text_Classification.pdf)
