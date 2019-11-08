@@ -45,6 +45,9 @@ What's inside :-
 
 Here are some of the interesting results after running various machine learning algorithms.
 
+image: /assets/images/neptext/dl_acc.JPG
+image: /assets/images/neptext/ml_acc.JPG
+
 ![alt text](https://github.com/oya163/nepali-text-classification/blob/master/images/dl_acc.JPG "Logo Title Text 1")
 
 <div class="rec-center-sphere">
