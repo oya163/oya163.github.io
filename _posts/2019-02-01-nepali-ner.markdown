@@ -34,6 +34,6 @@ This paper is published in 2019 IEEE 5th International Conference on Collaborati
 
 
 ## Web App
-- A simple flask based [web app](https://nepner.herokuapp.com/) is deployed on Heroku platform
+- A simple flask based <a href="https://nepner.herokuapp.com/" target="_blank">web app </a> is deployed on Heroku platform
 
 
