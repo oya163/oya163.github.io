@@ -4,12 +4,19 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am Oyesh Mann Singh. Just curious by nature.</p>
+<p>Hello, I am Oyesh Mann Singh.</p>
 
-<p>Smile while you have teeth.</p>
+<p>I'm trying to code by climbing on the shoulders of giants</p>
 
 ## Skills
 
-- Python
-- PyTorch
-- AWS services
+- Programming Languages:
+    * OOP - Python, Java, C++ 
+    * SQL - MySQL, PostgreSQL
+    * Web - HTML, CSS
+    * Scripting - Bash
+- Others:
+    * OS - Windows, Linux (Ubuntu)
+    * Libraries - PyTorch, NLTK, Pandas, Sklearn, Flask 
+    * Cloud - AWS (EC2, Kinesis, Lambda, Glue, DynamoDB, Elastic Beanstalk)
+    * Misc - REST API, Docker, Apache Airflow, CI/CD pipeline (Github Actions)
