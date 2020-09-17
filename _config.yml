@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: oya163
+# facebook: oya163
 twitter: oya163
 # google: mygoogle
 # instagram: myinstagram
@@ -44,8 +44,8 @@ youtube: OyaUna
 # spotify: myspotify
 github: oya163
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+stackoverflow: 4595807/oya163
+quora: Oyesh-Mann-Singh
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
@@ -54,7 +54,7 @@ email: oyeshsin@hotmail.com
 authors:
     oya163:
         name: Oyesh Mann Singh
-        bio: A Man who loves to drink wine
+        bio: A Man who loves to drink tea
         external-image: false
         picture: assets/images/profile.jpg
         twitter: oya163
