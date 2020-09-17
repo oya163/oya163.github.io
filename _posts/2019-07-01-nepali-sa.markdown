@@ -1,7 +1,7 @@
 ---
 title: "Nepali Sentiment Analysis"
 layout: post
-date: 2019-04-01 10:10
+date: 2019-07-01 10:10
 image: /assets/images/nepsa.png
 headerImage: true
 star: false
@@ -33,7 +33,6 @@ for the Aspect Term Extraction task and BiLSTM
 model for the Sentiment Classification Task achieving
 57.978% and 81.60% F1 score respectively.
 
-This paper is submitted for publication.
 
 ## Tasks
 We divided the experiments into two subtasks: Aspect Term Extraction and Sentiment Polarity Identification. 
@@ -56,4 +55,4 @@ aspect categories in every given sentence.
 - The [code repo](https://github.com/oya163/nepali-sentiment-analysis) is currently private.
 
 
-
+*Note: This paper is submitted for publication.*
