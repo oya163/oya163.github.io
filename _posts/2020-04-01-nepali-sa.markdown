@@ -1,0 +1,59 @@
+---
+title: "Nepali Sentiment Analysis"
+layout: post
+date: 2019-04-01 10:10
+image: /assets/images/nepsa.png
+headerImage: true
+star: false
+projects: true
+category: project
+author: oyashi
+description: "Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts"
+---
+This project is my second project in Nepali language. I tried to combine
+Named Entity Recognition and Sentiment Analysis tasks together in this project.
+
+### Abstract
+With the increase in internet access and
+the ease of writing comments in the Nepali language,
+fine-grained sentiment analysis of social media com-
+ments is becoming more and more pertinent. There are
+a number of benchmarked datasets for high-resource
+languages (English, French, and German) in specific
+domains like restaurants, hotels or electronic goods but
+not in low-resource languages like Nepali. In this paper,
+we present our work to create a dataset for the targeted
+aspect-based sentiment analysis in the social media
+domain, set up a dataset benchmark and evaluate
+using various machine learning models. The dataset
+comprises of code-mixed and code-switched comments
+extracted from Nepali YouTube videos. We present
+convincing baselines using a multilingual BERT model
+for the Aspect Term Extraction task and BiLSTM
+model for the Sentiment Classification Task achieving
+57.978% and 81.60% F1 score respectively.
+
+This paper is submitted for publication.
+
+## Tasks
+We divided the experiments into two subtasks: Aspect Term Extraction and Sentiment Polarity Identification. 
+
+Aspect Term Extraction resembles the sequence labelling task where we tag each token of a given sentence with 
+predefined aspect category or named entities. We experiment with four major categories General, Profanity, Violence, Feedback under Aspect Category and Person, Organization, Location and Miscellaneous under Target Entities. 
+
+Sentiment Polarity Identification is a binary classification task to identify sentiment polarity [0, 1] of each 
+aspect categories in every given sentence.
+
+
+## References
+- [Internet Stat](https://www.Internetworldstats.com/stats3.htm#asia)
+- [They Don't Leave Us Alone Anywhere We Go](https://research.google/pubs/pub47721/)
+- SemEval [2014](http://alt.qcri.org/semeval2014/task4/index.php?id=data-and-tools), [2015](http://alt.qcri.org/semeval2015/task12/) and [2016](http://alt.qcri.org/semeval2016/task5/) Aspect Based Sentiment Analysis
+- [Annotating Targets of Opinions in Arabic using Crowdsourcing](https://www.aclweb.org/anthology/W15-3210.pdf)
+
+
+## Github
+- The [code repo](https://github.com/oya163/nepali-sentiment-analysis) is currently private.
+
+
+
