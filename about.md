@@ -12,7 +12,7 @@ Fun fact: 8 out of top 10 highest mountains in the world, lies in Nepal.
 Must know fact: Gautam Buddha was born in Nepal.
 
 My current status: Preparing myself for Data Engineering/Data Science position,
-because I :heart: data. I know that sounds cliche but that's the fact. :lol:
+because I <3 data. I know that sounds cliche but that's the fact.
 </p>
 
 ## Skills
