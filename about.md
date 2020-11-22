@@ -7,11 +7,14 @@ layout: page
 <p>Hello, I am Oyesh Mann Singh. I am from Nepal, a tiny country between India and China.
 Nepal is famous for Mountains.
 
+
 Fun fact: 8 out of top 10 highest mountains in the world, lies in Nepal.
+
 
 Must know fact: Gautam Buddha was born in Nepal.
 
-My current status: Preparing myself for Data Engineering/Data Science position,
+
+My current status: Graduating in December 2020 and preparing myself for Data Engineering/Data Science position,
 because I <3 data. I know that sounds cliche but that's the fact.
 </p>
 
