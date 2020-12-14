@@ -16,8 +16,7 @@ Named Entity Recognition and Sentiment Analysis tasks together in this project.
 ### Abstract
 With the increase in internet access and
 the ease of writing comments in the Nepali language,
-fine-grained sentiment analysis of social media com-
-ments is becoming more and more pertinent. There are
+fine-grained sentiment analysis of social media comments is becoming more and more pertinent. There are
 a number of benchmarked datasets for high-resource
 languages (English, French, and German) in specific
 domains like restaurants, hotels or electronic goods but
@@ -35,12 +34,12 @@ model for the Sentiment Classification Task achieving
 
 
 ## Tasks
-We divided the experiments into two subtasks: Aspect Term Extraction and Sentiment Polarity Identification. 
+We divided the experiments into two sub-tasks: Aspect Term Extraction and Sentiment Polarity Identification.
 
-Aspect Term Extraction resembles the sequence labelling task where we tag each token of a given sentence with 
-predefined aspect category or named entities. We experiment with four major categories General, Profanity, Violence, Feedback under Aspect Category and Person, Organization, Location and Miscellaneous under Target Entities. 
+Aspect Term Extraction resembles the sequence labeling task where we tag each token of a given sentence with
+predefined aspect category or named entities. We experiment with four major categories General, Profanity, Violence, Feedback under Aspect Category and Person, Organization, Location and Miscellaneous under Target Entities.
 
-Sentiment Polarity Identification is a binary classification task to identify sentiment polarity [0, 1] of each 
+Sentiment Polarity Identification is a binary classification task to identify sentiment polarity [0, 1] of each
 aspect categories in every given sentence.
 
 
@@ -51,8 +50,7 @@ aspect categories in every given sentence.
 - [Annotating Targets of Opinions in Arabic using Crowdsourcing](https://www.aclweb.org/anthology/W15-3210.pdf)
 
 
-## Github
-- The [code repo](https://github.com/oya163/nepali-sentiment-analysis) is currently private.
+## [Github](https://github.com/oya163/nepali-sentiment-analysis)
 
 
 *Note: This paper is submitted for publication.*
