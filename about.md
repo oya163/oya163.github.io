@@ -25,8 +25,9 @@ Currently, I am a graduate student in University of Maryland Baltimore County. I
     * OOP - Python, Java, C++
     * SQL - MySQL, PostgreSQL (2 years)
     * Web - HTML, CSS, Javascript, ReactJS (learning phase)
+    * Web Frameworks - Flask, Django
     * Scripting - Bash
-    * Libraries - PyTorch, Numpy, NLTK, Pandas, Sklearn, Flask
+    * Libraries - PyTorch, Numpy, NLTK, Pandas, Sklearn, matplotlib, spacy, StanfordNLP
 - Others:
     * [AWS Certified Developer Associate](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
         * As of now, I have learned AWS fundamentals (IAM, EC2, ELB, ASG, RDS, Aurora, S3, CLI, SDK, ECS, ECR, Elastic Beanstalk) and their configurations with hands-on experience.
