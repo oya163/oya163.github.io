@@ -53,4 +53,5 @@ aspect categories in every given sentence.
 ## [Github](https://github.com/oya163/nepali-sentiment-analysis)
 
 
-*Note: This paper is submitted for publication.*
+## Publication
+- This research will be published in IEEE ASONAM 2020

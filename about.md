@@ -4,15 +4,13 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hello, I am Oyesh Mann Singh. I am from Nepal, a small country between India and China. Nepal is famous for Mountains.
-</p>
+Hello, I am Oyesh Mann Singh. I am from Nepal, a small country between India and China. Nepal is famous for Mountains.
 
-<p>
+
 Fun fact: 8 out of top 10 highest mountains in the world, lies in Nepal.
-</p>
 
-<p>
-Currently, I am a graduate student in University of Maryland Baltimore County. I worked under the supervision of [Dr. Anupam Joshi](https://www.csee.umbc.edu/~joshi/) on two projects, Named Entity Recognition in Nepali Language and Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts. I am proud to have worked on Nepali language, as it is my native language and first such projects in Nepali NLP community.
+
+Currently, I am a graduate student in University of Maryland Baltimore County. I worked under the supervision of [Dr. Anupam Joshi](https://www.csee.umbc.edu/~joshi) on two projects, Named Entity Recognition in Nepali Language and Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts. I am proud to have worked on Nepali language, as it is my native language and first such projects in Nepali NLP community.
 </p>
 
 ## Publications

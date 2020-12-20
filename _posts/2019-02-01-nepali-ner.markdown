@@ -28,7 +28,6 @@ when combined with BiLSTM models. Our best models obtain
 an overall F1 score of 86.89, which is a significant improvement
 on previously reported performance in literature.
 
-This paper is published in 2019 IEEE 5th International Conference on Collaboration and Internet Computing (CIC)
 
 ## Github
 - The [code repo](https://github.com/oya163/nepali-ner/) is available on Github
@@ -37,4 +36,5 @@ This paper is published in 2019 IEEE 5th International Conference on Collaborati
 ## Web App
 - A simple flask based <a href="https://nepner.herokuapp.com/" target="_blank">web app </a> is deployed on Heroku platform
 
-
+## Publication
+- This research is published in [IEEE CIC 2019](https://ieeexplore.ieee.org/document/8998477)
