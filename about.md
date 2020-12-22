@@ -11,7 +11,7 @@ Fun fact: 8 out of top 10 highest mountains in the world, lies in Nepal.
 
 
 Currently, I am a recent graduate student from University of Maryland Baltimore County. I am fortunate to work under the supervision of [Dr. Anupam Joshi](https://www.csee.umbc.edu/~joshi) on two projects, Named Entity Recognition in Nepali Language and Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts. I am proud to have worked on Nepali language, as it is my native language and first such projects in Nepali NLP community.
-</p>
+
 
 ## Publications
 - [Named Entity Recognition in Nepali Language](https://ieeexplore.ieee.org/document/8998477) (Published in IEEE CIC 2019)
