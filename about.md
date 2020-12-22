@@ -10,35 +10,37 @@ Hello, I am Oyesh Mann Singh. I am from Nepal, a small country between India and
 Fun fact: 8 out of top 10 highest mountains in the world, lies in Nepal.
 
 
-Currently, I am a graduate student in University of Maryland Baltimore County. I worked under the supervision of [Dr. Anupam Joshi](https://www.csee.umbc.edu/~joshi) on two projects, Named Entity Recognition in Nepali Language and Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts. I am proud to have worked on Nepali language, as it is my native language and first such projects in Nepali NLP community.
+Currently, I am a recent graduate student from University of Maryland Baltimore County. I am fortunate to work under the supervision of [Dr. Anupam Joshi](https://www.csee.umbc.edu/~joshi) on two projects, Named Entity Recognition in Nepali Language and Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts. I am proud to have worked on Nepali language, as it is my native language and first such projects in Nepali NLP community.
 </p>
 
 ## Publications
-- [Named Entity Recognition in Nepali Language](https://ieeexplore.ieee.org/document/8998477)
-- Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts (Will be published in IEEE ASONAM 2020)
+- [Named Entity Recognition in Nepali Language](https://ieeexplore.ieee.org/document/8998477) (Published in IEEE CIC 2019)
+- Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts (Will be published in [IEEE ASONAM 2020](http://asonam.cpsc.ucalgary.ca/2020/index.php#))
 
 ## Skills
 
 - Programming Languages:
-    * OOP - Python, Java, C++
-    * SQL - MySQL, PostgreSQL (2 years)
-    * Web - HTML, CSS, Javascript, ReactJS (learning phase)
-    * Web Frameworks - Flask, Django
+    * OOP - Python, Java, C++, C#/.NET
+    * SQL - MySQL, PostgreSQL
+    * Web - HTML, CSS, Javascript
+    * Web Frameworks - Flask, Django, ReactJS
     * Scripting - Bash
-    * Libraries - PyTorch, Numpy, NLTK, Pandas, Sklearn, matplotlib, spacy, StanfordNLP
+    * Libraries - PyTorch, Github, REST API, Docker, Kubernetes, Apache Airflow, CI/CD pipeline (Github Actions, Travis CI), Redis
 - Others:
     * [AWS Certified Developer Associate](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
-        * As of now, I have learned AWS fundamentals (IAM, EC2, ELB, ASG, RDS, Aurora, S3, CLI, SDK, ECS, ECR, Elastic Beanstalk) and their configurations with hands-on experience.
+        * Gained extensive theoretical knowledge & hands-on experience with AWS Fundamentals (IAM, EC2, ELB,
+          ASG, RDS, Aurora, S3, CLI, SDK, ECS, ECR, Elastic Beanstalk, CICD pipeline)
 
     * [REST API with Flask/Python](https://github.com/oya163/rest_api_practice)
-        * Completed the course
-        [REST APIs with Flask and Python](https://www.udemy.com/course/rest-api-flask-and-python/) from Udemy.
-        * Learned building REST APIs wtih Python, Flask and Flask-Restful.
-        * Learned connecting web apps to SQL database via REST APIs and creating secure REST APIs using user logging and authentication.
+      * Developed basic web applications to access databases/servers via REST APIs/SQLAlchemy
+      * Created secure and reliable REST APIs which include authentication, logging, caching and blacklisting
 
     * [Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/#overview)
-        * Learned creating DAGs with various operators like Bash, Python, PostgreSQL, Hive and different executors Sequential, Local and Celery with RabbitMQ.
+      * Creating DAG workflows, running Bash, Python, Postgres and Hive operators
+      * Hands-on experience with various executors (Sequential, Local and Celery with RabbitMQ)
 
-    * [Docker and Kubernetes](https://github.com/oya163/docker-react)
-        * Hands-on experience on building Docker based on multiple containers with Nginx/Redis/Nodejs and designing a CI/CD pipeline from scratch with Travis CI to deploy on AWS EB.
-        * Configuring Kubernetes cluster and deploying it to the cloud.     
+    * [Docker](https://github.com/oya163/multi-docker-ci-aws) and [Kubernetes](https://github.com/oya163/multi-kubernetes)
+      * Successfully completed Dockers and Kubernetes certification
+      * Hands-on experience with building Docker based on multiple containers (Nginx/Postgres/Redis
+      /NodeJS/ReactJS) and designing a CI/CD pipeline from scratch with Travis CI to deploy on AWS EB
+      * Complete knowledge on Kubernetes cluster configuration and deployment to the Google Cloud Platform infrastructure    

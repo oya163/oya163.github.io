@@ -1,6 +1,6 @@
 # main text of home
 name: Oyesh Mann Singh
-bio: A man who loves to drink wine
+bio: A man who loves to drink tea
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/resume/Oyesh_Singh_Resume.pdf
+resume-url: assets/resume/OSINGH_RESUME.pdf
 
 # url: https://koppl.in/indigo
 url: http://oya163.github.io
